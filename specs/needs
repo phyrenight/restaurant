@@ -1,0 +1,78 @@
+specs 1
+
+
+owner should be able to :
+    add employee
+    fire employee
+    edit employee
+    make a menu
+    edit a menu
+    delete a menu
+    create a menu item
+    cancel an item
+    edit an item
+    login
+    logout
+    view past orders for a customer
+    view a customer's past order
+    view reservations
+    view a reservations
+    cancel a reservations
+    edit a reservations
+    change password
+    edit profile
+    view profile
+
+
+waiters should be able:
+    login
+    log out
+    view menu
+    view reservations
+    edit reservation
+    cancel reservations
+    view orders
+    view a customer's order
+    edit order
+    cancel order
+    view profile
+    edit profile
+    view a customer's past order
+    reset passsword
+
+
+chefs should be able to:
+    login
+    logout
+    view menu
+    edit menu
+    cancel menu
+    add menu item
+    cancel menu item
+    edit menu item
+    view profile
+    edit profile
+    view orders
+    view reservations
+    reset password
+
+
+
+customers should be able to:
+    login
+    logout
+    signup
+    make reservation
+    cancel reservation
+    edit reservation
+    optional to be able to pick appetizers and drinks for reservation
+    make order
+    edit order
+    cancel order
+    view profile
+    edit profile
+    view reservation
+    view order
+    view past orders
+    view past reservations 
+    reset password
